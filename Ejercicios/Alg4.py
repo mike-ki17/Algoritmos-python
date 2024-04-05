@@ -7,4 +7,4 @@ factorial = 1
 for i in range(n):
     factorial *= n-i
 
-print(f'El factorial del número {n} es {factorial}')
+print(f'El factorial del número {n} es: {factorial}')

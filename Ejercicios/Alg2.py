@@ -8,5 +8,5 @@ nuevo = 0
 for i in range(n):
     nuevo = actual + nuevo
     actual = nuevo - actual
-    print(nuevo)
+    print(nuevo, end=", ")
 
